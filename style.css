@@ -1,0 +1,60 @@
+body
+{
+    background-color: indianred;
+}
+
+#score
+{
+    font-size: 30px;
+    float: left;
+    margin-left: 100px;
+    font-family: "Times New Roman"
+}
+
+#timer
+{
+    font-size: 30px;
+    float: right;
+    margin-right: 120px;
+    font-family: "Times New Roman"
+}
+
+h1
+{
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightblue;
+}
+
+h1:hover
+{
+    color: lightseagreen;
+    font-size: 55px;
+}
+
+#to_be_drawn, #confidence, #guessed_sketch_name
+{
+    text-shadow: 0 0 3px #80ebdc, 0 0 5px #ff00d4;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: ivory;
+}
+
+#box_shadow
+{
+    box-shadow: 5px 10px 18px ivory;
+    border: ivory;
+}
+
+span
+{
+    color: linen;
+    text-shadow: 0 0 3px #512aff, 0 0 5px #ff00bf;
+    font-size: 35px;
+}
+
+span:hover
+{
+    color: mediumblue;
+}
